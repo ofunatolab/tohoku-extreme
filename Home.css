@@ -198,8 +198,6 @@
     height: 120px;
     width: 344px;
     margin: 6px auto;
-
-    
   }
 
   .u-section-1 .u-text-2 {
@@ -1226,14 +1224,14 @@
   .u-section-6 .u-group-1 {
     margin-top: 20px;
     min-height: 49px;
-    width: calc(((100% - 340px) / 2) + 340px);
+    width: calc(((100% - 340px) / 2) + 390px);
   }
 
   .u-section-6 .u-text-2 {
     width: 331px;
     font-size: 1.25rem;
-    margin-bottom: 10px;
     margin-top: 5px;
+    margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
   }
