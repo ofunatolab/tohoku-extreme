@@ -3127,6 +3127,13 @@
   min-height: 674px;
 }
 
+.u-section-15 .u-image-2 {
+  background-image: url("images/会場マップ.jpg");
+  background-position: 50% 50%;
+  min-height: 935px;
+}
+
+
 .u-section-15 .u-container-layout-3 {
   padding-left: 0;
   padding-right: 0;
@@ -3176,6 +3183,9 @@
     min-height: 578px;
   }
 
+  .u-section-15 .u-image-2 {
+    min-height: 802px;
+  }
   .u-section-15 .u-btn-1 {
     margin-top: 53px;
     margin-bottom: 30px;
@@ -3210,6 +3220,11 @@
   .u-section-15 .u-image-1 {
     min-height: 440px;
   }
+  .u-section-15 .u-image-2 {
+    min-height: 610px;
+  }
+
+  
 }
 
 @media (max-width: 767px) {
@@ -3235,6 +3250,9 @@
 
   .u-section-15 .u-image-1 {
     min-height: 381px;
+  }
+  .u-section-15 .u-image-2 {
+    min-height: 529px;
   }
 
   .u-section-15 .u-btn-1 {
@@ -3270,6 +3288,10 @@
 
   .u-section-15 .u-image-1 {
     min-height: 203px;
+  }
+
+  .u-section-15 .u-image-2 {
+    min-height: 281px;
   }
 } .u-section-16 {
   background-image: none;
